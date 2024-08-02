@@ -1,4 +1,3 @@
-chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/sonic0328/dify-gkzx-api:202407081133
 postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/sonic0328/postgres:15-alpine
 redis:6-alpine registry.cn-hangzhou.aliyuncs.com/sonic0328/redis:6-alpine
 langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/sonic0328/dify-sandbox:0.2.1
